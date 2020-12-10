@@ -1,9 +1,7 @@
-# ignore everything in the root except the "Mods" directory.
-!Mods/
+# Ignore everything
+*
 
-# ignore everything in the "wp-content" directory, except:
-# "mu-plugins", "plugins", "themes" directory
-#wp-content/*
-#!wp-content/mu-plugins/
-#!wp-content/plugins/
-#!wp-content/themes/
+# But not this stuff
+!.gitignore
+!Mods/
+!TempMods/
