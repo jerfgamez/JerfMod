@@ -4,4 +4,6 @@
 # But not this stuff
 !.gitignore
 !Mods/
+!Mods/**
 !TempMods/
+!TempMods/**
