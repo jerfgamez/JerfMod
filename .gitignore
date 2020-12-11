@@ -1,15 +1,26 @@
 # Ignore everything
 *
 
-# But not this stuff
+# But not the following
+
+# Housekeeping
 !.gitignore
+!.gitattributes
+
+# Mods
 !Mods/
 !Mods/**
 !TempMods/
 !TempMods/**
 
+# Prefabs
 !Data/
 !Data/Prefabs/
 !Data/Prefabs/xcostum_*
 !Data/Prefabs/HNMALL*
 !Data/Prefabs/QUIETPINES*
+
+# Maps
+!Data/Worlds/
+!Data/Worlds/NitroJerf01/
+!Data/Worlds/NitroJerf01/**
