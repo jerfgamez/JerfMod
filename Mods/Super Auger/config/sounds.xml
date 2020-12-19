@@ -1,0 +1,10 @@
+<config>
+	
+	<remove	xpath="/Sounds/SoundDataNode[@name='bullethitstone']"/>
+	<remove	xpath="/Sounds/SoundDataNode[@name='bullethitearth']"/>
+	<remove	xpath="/Sounds/SoundDataNode[@name='bullethitwood']"/>
+	<remove	xpath="/Sounds/SoundDataNode[@name='bullethitmetal']"/>
+	<remove xpath="/Sounds/SoundDataNode[@name='Auger_Idle']"/>
+	<remove xpath="/Sounds/SoundDataNode[@name='Auger_Fire_Start']"/>
+	
+</config>

@@ -1,0 +1,27 @@
+<david>
+	<append xpath="/recipes">
+		<recipe name="ammoArrowStone" count="1">
+			<ingredient name="resourceRockSmall" count="1"/>
+			<ingredient name="resourceWood" count="1"/>
+			<ingredient name="resourceScrapPolymers" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoArrowIron" count="1">
+			<ingredient name="resourceArrowHeadIron" count="1"/>
+			<ingredient name="resourceWood" count="1"/>
+			<ingredient name="resourceScrapPolymers" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoCrossbowBoltIron" count="1">
+			<ingredient name="resourceArrowHeadIron" count="1"/>
+			<ingredient name="resourceWood" count="1"/>
+			<ingredient name="resourceScrapPolymers" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoCrossbowBoltStone" count="1">
+			<ingredient name="resourceRockSmall" count="1"/>
+			<ingredient name="resourceWood" count="1"/>
+			<ingredient name="resourceScrapPolymers" count="1"/>
+		</recipe>
+	</append>
+</david>

@@ -1,0 +1,20 @@
+<configs>
+
+	<append xpath="/traders/trader_item_groups/trader_item_group[@name='rareTools']">
+			<item name="meleeToolAllSteelParts" count="1,3"/>
+			<item name="meleeToolAxeT3Chainsaw" quality="1,3"/>
+			<item name="meleeToolPickT3Auger" quality="1,3"/>
+			<item name="Super Auger" quality="1,3"/>
+			<item name="meleeToolRepairT3Nailgun"/>
+			<item name="meleeToolSalvageT2Ratchet" quality="1,3"/>
+			<item name="meleeToolSalvageT3ImpactDriver" quality="1,3"/>
+			<item name="smallEngine"/>
+			<item name="meleeToolPickT2SteelPickaxe" quality="1,3"/>
+			<item name="meleeToolAxeT2SteelAxe" quality="1,3"/>
+			<item name="meleeToolShovelT2SteelShovel" quality="1,3"/>
+			<item name="meleeWpnSledgeT3SteelSledgehammer" quality="1,3"/>
+			<item name="toolForgeCrucible"/>
+	</append>
+	
+</configs>
+

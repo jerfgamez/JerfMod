@@ -1,0 +1,20 @@
+<config>
+
+	<append xpath="/lootcontainers/lootgroup[@name='groupToolsT3']">
+		<item name="meleeToolAxeT3Chainsaw"/>
+		<item name="meleeToolPickT3Auger"/>
+		<item name="meleeToolRepairT3Nailgun"/>
+		<item name="meleeToolSalvageT3ImpactDriver"/>
+		<item name="Super Auger"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootgroup[@name='groupQuestToolsT3']">
+		<item name="meleeToolAxeT3Chainsaw"/>
+		<item name="meleeToolPickT3Auger"/>
+		<item name="meleeToolRepairT3Nailgun"/>
+		<item name="meleeToolSalvageT3ImpactDriver"/>
+		<item name="Super Auger"/>
+	</append>
+ 
+</config>
+
