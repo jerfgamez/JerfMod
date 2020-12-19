@@ -14,16 +14,15 @@ AussieTerms - Some items renamed to Aussie local (Inspired by Jawoodle)
 
 [Plastic Instead of Feathers](https://7daystodiemods.com/plastic-instead-of-feathers/) - Thanks Zereoto
 
-[SHERP Vehicle Mod](https://7daystodiemods.com/sherp-vehicle-mod/) - Thanks [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)
+[Bdubyah’s Vehicles All in One](https://7daystodiemods.com/bdubyahs-vehicles-all-in-one/) - Thanks [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)
 
-[Duster Airplane Mod](https://7daystodiemods.com/duster-airplane-mod/) - Thanks [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)
 
 [Increased Wandering Hordes](https://7daystodiemods.com/increased-wandering-hordes/) - Thanks [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)
 
 ___
 To load the mod via 7DTD ModLauncher, use this URL: http://gamez.preloaded.com.au/7dtdmods/Profiles/master/jerfgamez.xml
 
-Or download the gamez.xml file to use the **Open local file** option. 
+Or download the [gamez.xml](http://gamez.preloaded.com.au/7dtdmods/Profiles/master/jerfgamez.xml) file to use the **Open local file** option. 
 
 ___
 [7DTDModLauncher](http://7d2dmodlauncher.org/7D2DModLauncher.html) and instructions on how to use it. 
