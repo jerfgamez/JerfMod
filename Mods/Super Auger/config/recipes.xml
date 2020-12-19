@@ -1,0 +1,12 @@
+<config>
+	<append xpath="/recipes">
+
+		<recipe name="Super Auger" count="1" craft_area="workbench" tags="learnable,workbenchCrafting,perkAdvancedEngineering">
+			<ingredient name="vehicleBicycleHandlebars" count="1"/>
+			<ingredient name="smallEngine" count="1"/>
+			<ingredient name="resourceForgedSteel" count="10"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+	</append>
+</config>
