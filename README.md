@@ -12,11 +12,10 @@ AussieTerms - Some items renamed to Aussie local (Inspired by Jawoodle)
 
 [Super Auger](https://7daystodiemods.com/super-auger/) - Thanks [Noisy Pants](https://7daystodiemods.com/tag/noisy-pants/)
 
-[Plastic Instead of Feathers](https://7daystodiemods.com/plastic-instead-of-feathers/) - Thanks Zereoto
 
 [Bdubyah’s Vehicles All in One](https://7daystodiemods.com/bdubyahs-vehicles-all-in-one/) - Thanks [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)
 
-
+Still to add...
 [Increased Wandering Hordes](https://7daystodiemods.com/increased-wandering-hordes/) - Thanks [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)
 
 ___
